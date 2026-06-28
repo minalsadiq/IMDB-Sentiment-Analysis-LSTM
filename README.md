@@ -26,9 +26,6 @@ The dataset contains movie reviews labeled as:
 | **Model** | LSTM architecture for sequence data. |
 | **Evaluation** | Confusion matrix and accuracy metrics. |
 
-## Project Workflow
-<img width="1024" height="559" alt="IMDB Sentiment Workflow" src="https://github.com/user-attachments/assets/16b5c4f9-773b-4539-8c44-f7e0c7a44c02" />
-
 ## Technologies Used
 - Python
 - Google Colab
@@ -37,5 +34,8 @@ The dataset contains movie reviews labeled as:
 - NumPy
 - Matplotlib
 - Scikit-learn
+## Project Workflow
+<img width="1024" height="559" alt="IMDB Sentiment Workflow" src="https://github.com/user-attachments/assets/16b5c4f9-773b-4539-8c44-f7e0c7a44c02" />
+
 ## 📈 Results
 The LSTM model achieves high accuracy in sentiment classification by effectively capturing the context of movie reviews.
